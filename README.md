@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a>Vitali</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python developer</h3>
+<h3 align="center">Python developer, looking for a job</h3>
 
 
 [![codewars](https://www.codewars.com/users/Witaly3/badges/small)](https://www.codewars.com/users/Witaly3)
